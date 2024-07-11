@@ -2,9 +2,10 @@
 OrionOS is a Android Custom ROM based on LineageOS & crDroidAndroid, Offering a stable experience with extensive customization features and performance enhancements.
 
 ### Important Repositories
-- [**Manifest**](https://github.com/OrionOS-prjkt/android) 
+- [**Manifest**](https://github.com/OrionOS-prjkt/android)
 
-### Official Telegram Chat & Channel 
+### Important Links
+- [**Official Device**](https://orion-os.vercel.app/download)
 - [**OrionOS Updates**](https://t.me/OrionOS_Update)
 - [**OrionOS Chats**](https://t.me/OrionOS_prjkt)
 
