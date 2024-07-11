@@ -15,6 +15,7 @@ OrionOS is a Android Custom ROM based on LineageOS & crDroidAndroid, Offering a 
 - [**crDroid**](https://github.com/crdroidandroid)
 - [**RisingTechOSS**](https://github.com/RisingTechOSS)
 - [**xdroidOSS**](https://github.com/xdroid-oss)
+- [**Evolution X**](https://github.com/Evolution-XYZ)
 
 
 
